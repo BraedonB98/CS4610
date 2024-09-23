@@ -1,4 +1,9 @@
 /* App.css */
+:root {
+  --msu-blue: #00447c;
+  --msu-red: #d11242;
+  --msu-grey: #717073;
+}
 
 .App {
   text-align: center;
